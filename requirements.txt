@@ -1,0 +1,8 @@
+transformers==4.29.0
+torch==2.0.0
+torchvision==0.15.0
+diffusers==0.14.0
+opencv-python==4.5.5.64
+Pillow==9.2.0
+deep-translator==1.8.5
+streamlit==1.16.0
